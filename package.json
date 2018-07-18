@@ -2,7 +2,7 @@
   "name": "qm",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chornos13.github.io/qm/",
+  "homepage": "http://chornos13.github.io/qm/",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
